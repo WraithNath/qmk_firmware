@@ -1,3 +1,4 @@
 ANALOG_DRIVER_REQUIRED = yes
+VIA_ENABLE = yes
 
 SRC += matrix.c
